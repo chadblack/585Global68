@@ -1,0 +1,14 @@
+- name: syllabus
+  link: /syllabus/
+- name: calendar
+  link: /calendar/
+- name: assignments
+  link: /assignments/
+- name: posts
+  link: /blog/
+- name: trailer
+  link: /2022/07/02/a-course-trailer/
+- name: playlist
+  link: /2022/07/04/a-playlist-for-1968/
+- name: films
+  link: /films/
