@@ -4,15 +4,12 @@ title: syllabus
 image: /images/19680810_20_Anti-War_March.jpg
 ---
 
-
-Global 1968
-History 499, Fall 2022
+History 585: Global 1968
 
 **Prof. Chad Black**  
-**Email:** cblack6@utk.edu  
-**Phone:** 974-9871  
-**Office:** 2627 Dunford Hall, 6th Floor  
-**Office Hours:** Tuesday 1:30-3:30, or by appointment
+**Email:** cblack6@utk.edu   
+**Office:**  
+**Office Hours:** 
 
 {:toc}
 
