@@ -7,7 +7,7 @@ image: /images/Japan68.jpeg
 1. week
 {:toc}
 
-## Aug. 24: Introduction to the Course
+## Jan 21: Introduction to the Course
 
 Read: 
 

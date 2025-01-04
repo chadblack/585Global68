@@ -9,22 +9,23 @@ layout: post
 
 # Readings
 
-There are four books for purchase:
+Required Texts:
 
-1. Marcuse, Herbert. *One Dimensional Man*. Boston: Beacon Press, 1991. [On
-   Amazon](https://www.amazon.com/One-Dimensional-Man-Ideology-Advanced-Industrial/dp/0807014176/ref=sr_1_1?keywords=one+dimensional+man&qid=1659383935&sprefix=one+dime%2Caps%2C116&sr=8-1)
+1. Herbert Marcuse, *One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society* (Beacon Press, 1991)
+2. Franz Fanon, *The Wretched of the Earth* (Grove, 2005)
+3. Anne Garland Mahler, *From the Tricontinental to the Global South: Race, Radicalism, and Transnational Solidarity* (Duke University Press, 2018)
+4. Jaime Pensado, *Rebel Mexico: Student Unrest and Authoritarian Political Culture during the Long Sixties* (Stanford University Press, 2015)
+5. Susana Draper, *1968 Mexico: Constellations of Freedom and Democracy* (Duke University Press, 2018)
+6. Christopher Gerteis,  *Mobilizing Japanese Youth: The Cold War and the Making of the Sixties Generation* (Cornell University Press, 2021)
+7. Gavin Walker, ed. *The Red Years: Theory, Politics, and Aesthetics in the Japanese '68* (Verso Books, 2020)
+8. Jeffrey James Byrne, *Mecca of Revolution: Algeria, Decolonization and the Third World Order* (Oxford University Press, 2019)
+9. Kristen Ross, *May '68 and its Afterlives* (Univ. of Chicago Press, 2004)
+10. Quinn Slobodian, *Foreign Front: Third World Politics in Sixties West Germany* (Duke University Press, 2012)
+11. Andrew Ivaska, *Cultured States: Youth, Gender, and Modern Style in 1960s Dar Es Sallam* (Duke University Press, 2011)
+12. Tanisha Ford, *Liberated Threads: Black Women, Style, and the Global Politics of Soul* (University of North Carolina Press, 2017)
+13. Guy Hocquenghem, *Gay Liberation after May '68* (Duke University Press, 2022)
+14. Luc Boltanski and Eve Chiapello, *The New Spirit of Capitalism* (Verso Books, 2016)
 
-2. Ross, Kristen. *May '68 and Its Afterlives*. Chicago: University of Chicago
-   Press, 2004. [On
-   Amazon](https://www.amazon.com/May-Its-Afterlives-Kristin-Ross/dp/0226727998/ref=sr_1_1?keywords=may+%2768+and+its+afterlives&qid=1659384146&sprefix=may+%2768+an%2Caps%2C113&sr=8-1)
-
-3. Walker, Gavin, editor. *The Red Years: Theory, Politics, and Aesthetics in
-   the Japanese '68*. New York: Verso Books, 2020. [On
-   Amazon](https://www.amazon.com/Japanese-68-Theory-Politics-Aesthetics/dp/1786637227/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1659384372&sr=8-1)
-
-4. Zolov, Eric. *Refried Elvis: The Rise of the Mexican Counterculture*.
-   Berkeley: University of California Press, 1999. [On
-   Amazon](https://www.amazon.com/Refried-Elvis-Eric-Zolov/dp/0520215141/ref=sr_1_2?crid=162OAI6FUK01&keywords=refried+elvis&qid=1659384485&sprefix=refried+elvis%2Caps%2C85&sr=8-2)
 
 # Assignments
 
