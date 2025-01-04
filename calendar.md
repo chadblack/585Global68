@@ -7,15 +7,21 @@ image: /images/Japan68.jpeg
 1. week
 {:toc}
 
-## Jan 21: Introduction to the Course
 
-Read: 
+###  Week 1: January 22 -- Introduction
 
-* The [Syllabus]() and website.
+Welcome to a new semester on the past. And just what is the status of that past? We're going to start off by thinking about that question a bit, first by doing Hegel a bit wrong and reducing him to his ill-conceived Philosophy of History. But, then we'll rattle the teleology, or is it theology, with some Benjamin. 
 
-**DUE:** 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WBm7tN5Fn9U?si=bLF0Wj3lfpiO3Qwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Aug. 31: One Dimensional Man, Part 1.
+Read:  
+* Syllabus/Website  
+* Georg Hegel,  *On the Philosophy of History*, selections. 
+* Walter Benjamin, "Theses on the Philosophy of History" from *Illuminations*. 
+
+### Week 2: January 29 -- Marcuse
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I-XnJGs9D4k?si=Zpiyfc92Tj5fubdh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 In a somewhat surprising twist, the global crises of the late 1960s made
 a celebrity out of an aging German cultural theorist who had escaped the Nazi
@@ -23,33 +29,19 @@ regime. Herbert Marcuse's most famous book, *One Dimensional Man*, became
 a reference text for a decade that aspired to liberation. That same popularity
 has made his work still today the object of cultural and political backlash.
 What did he say that resonated with youth of the 1960s, while also still
-being perceived as threatening to this day? What were his divisive concepts?
-
-Read:  
-
-* Herbert Marcuse, *One Dimensional Man*, pp. 1-83.
-
-
-**DUE:** 
-
-* A précis of one of the three chapters.
-
-
-
-## Sep. 7: One Dimensional Man, Part 2.
-
-Having diagnosed a problem, does Marcuse create a path forward? Is there more
+being perceived as threatening to this day? What were his divisive concepts? Having diagnosed a problem, does Marcuse create a path forward? Is there more
 to critical theory than the negation of the present?
 
-**Read:**  
+Read:   
+-  Herbert Marcuse, *One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society* (Beacon Press, 1991)
 
-* Herbert Marcuse, *One Dimensional Man*, pp. 84-122; 225-258.
+Optional:  
+* Herbert Marcuse, *Eros and Civilization: A Philosophical Inquiry into Freud* (Beacon Press, 1966)  
+* Sigmund Feud, *Civilization and its Discontents* 
 
-**DUE:**  
+### Week 3: February 5 -- Fanon and Guevara
 
-* Full research memo on *One Dimensional Man*.
-
-## Sep. 14: Fanon and Guevara
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSsk0lmZ90k?si=7B9aiazlk_iQj-Nz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *One Dimensional Man* provides an entry into one vector of critique that
 animated the global protests of 1968. It is in the tradition of European
@@ -63,138 +55,100 @@ Caribbean and Algeria's struggle for Independence. Che Guevara was a product of
 anti-imperialism in the Americas, and particularly in the struggle against US
 American hegemony.
 
-**Read:**  
-
-1. Franz Fanon, "Concerning Violence," pp. 35-106 in *Wretched of the Earth*,
-   Constance Farrington, trans. (New York: Grove Press, 1963).
-2. Ernesto Guevara, ["Socialism and Man in
+Read:   
+-  Franz Fanon, *The Wretched of the Earth* (Grove, 2005)
+- Ernesto Guevara, ["Socialism and Man in
    Cuba"](https://www.marxists.org/archive/guevara/1965/03/man-socialism.htm)
 
-* Be ready to brainstorm some potential paper topics, including thinking about
-  what kinds of resources you will need for said topics. 
+### Week 4: February 12 -- Contradictions  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bufHojkoGtw?si=hfu2d3CIsJmCx8HX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+From the contending theoretical positions of Marcuse's critique of highly industrialized societies to Fanon and Guevara's critiques of combined uneven development and the role of violence in liberation, we'll consider a trajectory of a kind of non-aligned solidarity this week. Who or what is the subject of political transformation?
+
+Read:   
+-  Anne Garland Mahler, *From the Tricontinental to the Global South: Race, Radicalism, and Transnational Solidarity* (Duke University Press, 2018)
 
 
-## Sep. 21: Towards 1968 -- Mexico Pt. 1.
+### Week 5: February 19 -- Mexico I
 
-It's tempting with a year like 1968, where so much happened of significance, to
-work through the year and around the globe in a sort-of de-contextualized
-synchronicity. The roots of the events of 1968 were particular to each place,
-even as they expressed similar grievances. This week, we look at particular
-roots in Mexico in the decades before 1968, and that year's associations with
-the counterculture (*La Onda*) and student agitation that preceded it.
+Read:   
+-  Jaime Pensado, *Rebel Mexico: Student Unrest and Authoritarian Political Culture during the Long Sixties* (Stanford University Press, 2015).
 
-**Read:**
-
-1. Eric Zolov, *Refried Elvis: The Rise of the Mexican Counterculture*
-   (University of California Press, 1999), pp. 1-92.
+Optional:  
+* Eric Zolov, *Refried Elvis:The Rise of the Mexican Counterculture* (University of California Press, 1999)
 
 
-**DUE:**  
+### Week 6: February 26 -- Mexico II
 
-* Précis and notes on Zolov.
+Read:   
+-  Susana Draper, *1968 Mexico: Constellations of Freedom and Democracy* (Duke University Press, 2018).
 
-
-## Sep. 28: Towards 1968 -- Mexico Part 2. 
-
-In addition to Zolov's account of *La Onda* and 1968, this week we'll also be
-thinking about the particular global context of Mexico City that year, as
-a showcase of statecraft and sportwashing. 
-
-**Read:**  
-
-1. Eric Zolov, *Refried Elvis: The Rise of the Mexican Counterculture*
-   (University of California Press, 1999), pp. 93-166.
+Optional:  
+* Eric Zolov, *The Last Good Neighbor: Mexico in the Global Sixties* (Duke University Press, 2020).
 
 
-**DUE:**  
+### Week 7: March 5 -- Japan I 
 
-* An analysis or narrative of your set of 10 documents. Please use the document
-  number (either written by me at the top of the paper copy, or as provided on
-  the National Security Archive
-  [website](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB99/).
+Read:   
+- Christopher Gerteis,  *Mobilizing Japanese Youth: The Cold War and the Making of the Sixties Generation* (Cornell University Press, 2021)
 
 
-## Oct. 5: Fall Break
+### Week 8: March 12 -- Japan II
+
+
+Read:   
+-  Gavin Walker, ed. *The Red Years: Theory, Politics, and Aesthetics in the Japanese '68* (Verso Books, 2020)
+
+
+### Week 9: March 19 (Spring Break)
 
 Enjoy your break. But not too much.
 
-## Oct. 12: When it Explodes -- Japan Part 1.
+### Week 10: March 26   -- Algeria
+
+Read:   
+-  Jeffrey James Byrne, *Mecca of Revolution: Algeria, Decolonization and the Third World Order* (Oxford University Press, 2019)
+
+### Week 11: April 2  -- France
+
+Read:   
+-  Kristen Ross, *May '68 and its Afterlives* (Univ. of Chicago Press, 2004).
+
+Optional:
+* Jean-Patrick Manchette, *Nada*, trans. by Donald Nicholson-Smith (NYRB, 2019)
 
 
+### Week 12: April 9 -- Germany
 
-**Read:**  
+Read:   
+-  Quinn Slobodian, *Foreign Front: Third World Politics in Sixties West Germany* (Duke University Press, 2012).
 
-1. Gavin Walker, "Revolution and Retrospection," pp. 1-11 in Walker, ed., *The
-   Red Years: Theory, Politics, and Aesthetics in the Japanese '68* (New York:
-   Verso, 2020).
-2. Hiroshi Nagasaki, "On the Japanese '68," pp. 12-37 in Walker (2020).  
-3. Yohihiko Ichida, "The Ethics of the Agitator: On Hiroshi Nagasaki's _The
-   Phenomenology of Politics_" pp. 38-56 in Walker (2020).
-4. Hidemi Suga, "1968 and the Postwar Regime of Emperor-System Democracy," pp.
-   98-119 in Walker (2020).
+### Week 13: April 16 -- Style 
 
 
-**DUE:** 
+Read:   
+-  Andrew Ivaska, *Cultured States: Youth, Gender, and Modern Style in 1960s Dar Es Sallam* (Duke University Press, 2011)
 
-* Pick two of the readings, and write précis.
+**AND/OR**
 
-* Finalized topic expressed in one paragraph and including your **historical
-  question**. 
-
-## Oct. 19: What were the Stakes -- Japan Part 2.
-
-**Read:**  
-
-1. Chelsea Szendi Schider, "Human Liberation or 'Male Romance'? The Gendered
-   Everyday of the Student New Left," pp. 143-159 in Walker (2020).
-2. Yutaka Nagahara, "1972: The Structure of the Streets," pp. 181-211 in Walker
-   (2020).
-3. Gavin Walker, "The Post-'68 Conjuncture," pp. 229-236 in Walker (2020).
-
-**DUE:** 
-
-* Reading précis.
-* Bibliography and primary source collections for your paper.
-
-## Oct. 26: From 1968 -- France Part 1.
+- Tanisha Ford, *Liberated Threads: Black Women, Style, and the Global Politics of Soul* (University of North Carolina Press, 2017)
+### Week 14: April 23 -- Identity
 
 
-**Read:**  
+Read:   
+-  Guy Hocquenghem, *Gay Liberation after May '68* (Duke University Press, 2022). 
 
-1. Kristen Ross, *May '68 and It's Afterlives* (Chicago: Chicago University
-   Press, 2002): Introduction, Chapters 1-2.
+### Week 15: April 30 -- New Spirit I
 
-**DUE:** 
 
-* One sentence, one paragraph, one page.
+Read:   
+-  Luc Boltanski and Eve Chiapello, *The New Spirit of Capitalism* (Verso Books, 2016) -- Introduction, Parts I & II
 
-## Nov. 2: Does it still matter? France Part 2.
+### Week 16: May 7  -- New Spirit II
 
-**Read:**  
 
-1. Kristen Ross, *May '68 and It's Afterlives*, Chapters 3-4.
+Read:   
+-  Luc Boltanski and Eve Chiapello, *The New Spirit of Capitalism* (Verso Books, 2016) -- Part III.
 
-**DUE:** 
-
-* Weekly assignment.
-
-## Nov. 9: Research/Meetings/Writing
-
-* Scheduled meetings with Prof. Black.
-
-## Nov. 16: Research/Meetings/Writing
-
-* Scheduled meetings with Prof. Black.
-
-## Nov. 23: Thanksgiving
-
-**DUE:*** HAVE A NICE THANKSGIVING
-
-## Nov. 30: Presentations 1
-
-Project presentations by group 1.
-
-## Dec. 7: Presentations 2 
-
-Project presentations by group 2. 
 

@@ -30,29 +30,23 @@ Required Texts:
 # Assignments
 
 
-1. **Participation and Self-Evaluation. (15%)**
+1. **Engagement and Self-Evaluation. (15%)**  
+   This is a graduate seminar. Reading, talking, and writing are fundamental to the class. At the end of the semester, seminar members will write a course and self-evaluation as part of their engagement of the course. 
 
-   This course requires your active participation in book
-   discussions and lecture. YOU MUST READ WEEKLY FOR THIS CLASS.
+2. **Weekly Assignments. (25%)**  
+   Most weeks, seminar members will write a précis and research memo on assigned reading. For more on the research memo and précis form, see [here](https://chadblack.net/2024ELA/resources/how%20to%20write%20a%20precis%20and%20memo/). Some weeks, the assignment may vary, to include watching a film or some other task. We'll roll with it together. 
 
-2. **Weekly Assignments. (35%)**
+3. **Leading Discussion. (10%)**  
+   We will divvy up weeks for leading discussion of the assigned work. 
+   
+4. **Theoretical Reflection Paper. (25%)**  
+   Following the readings in weeks 1-4, seminar members will write their own theoretical reflection on the stakes of 1968. In addition to class readings, the professor can point you in the direction of other theoretical texts worth considering or that connect to an issue you feel is most pressing in anticipation of 1968. 
+   
+5. **Final Paper. (25%)** 
+   The final assignment of the semester asks seminar members to write an essay evaluating the outcome of a 1968 node of their choice-- a theoretical concept, a location of revolt, political and economic reaction, etc.-- not covered in the case studies we've done in class.
 
-    Each week, there will be some type of assignment designed to help you move
-    along your research. These may include reading précis, outlines,
-    bibliography work, research plans, primary source analyses, etc. Some of
-    these are predetermined. Others, I will assign based on how the course is
-    going and what your strengths and weaknesses seem to be. So, stay tuned!
+
+ 
    
 
-3. **Final Paper. (50%)**
-   
-   The paper to end all papers. Students will write a research paper of
-   4,500-6,000 words in length. The paper will have a formal bibliography. The topic
-   will be of the student’s choosing, and will  analyze broader social or cultural issues, 
-   such as gender, race, sport, class, invention, urbanity, work, youth,
-   protest, etc. in the context of a Global 1968. Topics can be about the lead
-   up to, the crisis, or the aftermath of 1968, conceived broadly. As such,
-   topics cannot be exlusively about the United States, but must engage
-   a global setting. Topic selection must also come with a primary source base
-   that you can work with during the course of the semester.
 
