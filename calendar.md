@@ -21,8 +21,6 @@ Read:
 
 ## Week 2: January 29 -- Marcuse
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I-XnJGs9D4k?si=Zpiyfc92Tj5fubdh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 In a somewhat surprising twist, the global crises of the late 1960s made
 a celebrity out of an aging German cultural theorist who had escaped the Nazi
 regime. Herbert Marcuse's most famous book, *One Dimensional Man*, became
@@ -32,6 +30,11 @@ What did he say that resonated with youth of the 1960s, while also still
 being perceived as threatening to this day? What were his divisive concepts? Having diagnosed a problem, does Marcuse create a path forward? Is there more
 to critical theory than the negation of the present?
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I-XnJGs9D4k?si=Zpiyfc92Tj5fubdh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 Read:   
 -  Herbert Marcuse, *One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society* (Beacon Press, 1991)
 
@@ -40,6 +43,19 @@ Optional:
 * Sigmund Feud, *Civilization and its Discontents* 
 
 ## Week 3: February 5 -- Fanon and Guevara
+
+*One Dimensional Man* provides an entry into one vector of critique that
+animated the global protests of 1968. It is in the tradition of European
+philosophy and critical theory, and centered on themes of alienation,
+affluence, technology, bureaucracy, etc. An wholly other context produced
+soliarity and action that was less an immanent critique of Europe and the
+United States, and more an anti-colonial and anti-capitalist from outside of
+Europe and the United States. This week we have two chapters that are examples
+of that critique. Franz Fanon's work emerged in the context of both the French
+Caribbean and Algeria's struggle for Independence. Che Guevara was a product of
+anti-imperialism in the Americas, and particularly in the struggle against US
+American hegemony.
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HSsk0lmZ90k?si=7B9aiazlk_iQj-Nz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -62,10 +78,12 @@ Read:
 
 ## Week 4: February 12 -- Contradictions  
 
+From the contending theoretical positions of Marcuse's critique of highly industrialized societies to Fanon and Guevara's critiques of combined uneven development and the role of violence in liberation, we'll consider a trajectory of a kind of non-aligned solidarity this week. Who or what is the subject of political transformation?
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bufHojkoGtw?si=hfu2d3CIsJmCx8HX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-From the contending theoretical positions of Marcuse's critique of highly industrialized societies to Fanon and Guevara's critiques of combined uneven development and the role of violence in liberation, we'll consider a trajectory of a kind of non-aligned solidarity this week. Who or what is the subject of political transformation?
+
 
 Read:   
 -  Anne Garland Mahler, *From the Tricontinental to the Global South: Race, Radicalism, and Transnational Solidarity* (Duke University Press, 2018)

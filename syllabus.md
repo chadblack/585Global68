@@ -9,7 +9,7 @@ History 585: Global 1968
 **Prof. Chad Black**  
 **Email:** cblack6@utk.edu   
 **Office:**  
-**Office Hours:** 
+**Office Hours:** Wednesdays 3:00p - 5:00p
 
 {:toc}
 
@@ -22,27 +22,15 @@ its threats, continues to haunt global politics and capital accumulation, even a
 dreams of change have ceded to a capitalist realism. This class will ask the
 question, “What were the stakes of 1968?” Students will read theories and
 histories that defined the moment, often synonymous with the shorthand of their
-location and time: Japan ’68, Mexico ’68, May ’68, etc. Students will conduct
-research and write capstone papers on some aspect of Global 1968, following the
-themes of the course. The stakes of that paper are graduation!
+location and time: Japan ’68, Mexico ’68, May ’68, etc. 
 
 # Course Objectives
 
-Department guidelines for 499 set the following expectations for students:
-
-1. to research and write a paper that displays the skills they have learned throughout the major;
-
-2. to learn to develop a research question;
-
-3. to learn to build an argument using primary sources and relevant secondary literature;
-
-4. to do history on another level, not merely as consumers but as writers of history;
-
-5. to progress to a stage where they can conduct research and teach themselves things they don’t know;
-
-6. to learn to take a large volume of information and explain it in an intelligible format.
-
-These skills will culminate in the student writing a 4,500-6,000 word research paper in which they advance their own historical argument. We will work on these goals on paper and in discussion.
+1. Students will build familiarity with the broad theoretical and historiographic development of research on the global processes identified with 1968.
+    
+2. Students will be able to articulate their own theoretical perspective on the nature of history as both philosophy and a set of practices.
+    
+3. Students will demonstrate an ability to analyze, synthesize, and communicate in written and oral forms primary and secondary sources on Global 1968.
 
 Reading, writing, and oral assignments for this course are designed to meet
 these goals. In meeting them, you will also be able to place global unrest
@@ -61,17 +49,6 @@ assistant at the end of class on the day they are due, unless otherwise
 arranged by the professor. Late papers will not be accepted without **prior
 arrangement**, for any reason. This includes technology problems.
 
-**Cell Phones and Laptops:** Please silence our cell phones prior to class.
-Please do not text during class. Cell phones are not permitted in class, and
-need to be put away for the duration of our meetings. Laptops are allowed only
-for tasks related to this class. Distracting use of technology (social media,
-surfing, GroupMe chats, etc.) causes problems not only for your own learning, but for those
-around you. Research shows that analog notetaking improves learning. Consider
-having paper with you. Based on the prevailing literature, hand note-taking–
-both while reading and in class– leads to substantially better educational
-outcomes. You are not required to have a laptop in class, so feel free to leave
-it at home. If, however, you have reason to use your laptop for notetaking,
-I won’t stop you from doing so. 
 
 **Plagiarism and Academic Honesty:** Plagiarism occurs when someone knowingly
 or unknowingly presents another person’s words or ideas as his or her own. Any
