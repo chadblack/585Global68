@@ -19,6 +19,11 @@ Read:
 * Georg Hegel,  *On the Philosophy of History*, selections. 
 * Walter Benjamin, "Theses on the Philosophy of History" from *Illuminations*. 
 
+Optional:  
+* Michael Löwy, *Fire Alarm: Reading Walter Benjamin's 'On the Concept of History* (Verso, 2016). 
+* Fredric Jameson, *The Benjamin Files* (Verso Books, 2020). 
+* Tosaka Jun, “The Principle of Everydayness and Historical Time,” pp. 3-16 in Ken C. Kawashima, Fabian Schäfer, and Robert Stolz, eds., _Tosaka Jun: A Critical Reader_ (Columbia University East Asia Program, 2013).
+
 ## Week 2: January 29 -- Marcuse
 
 In a somewhat surprising twist, the global crises of the late 1960s made
