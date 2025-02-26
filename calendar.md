@@ -94,7 +94,7 @@ Read:
 -  Anne Garland Mahler, *From the Tricontinental to the Global South: Race, Radicalism, and Transnational Solidarity* (Duke University Press, 2018)
 
 
-## Week 5: February 19 -- Mexico I
+## Week 5: February 19 -- Mexico I (Morgan)
 
 Read:   
 -  Jaime Pensado, *Rebel Mexico: Student Unrest and Authoritarian Political Culture during the Long Sixties* (Stanford University Press, 2015).
@@ -103,7 +103,7 @@ Optional:
 * Eric Zolov, *Refried Elvis:The Rise of the Mexican Counterculture* (University of California Press, 1999)
 
 
-## Week 6: February 26 -- Mexico II  
+## Week 6: February 26 -- Mexico II  (Mary Beth)
 
 Read:   
 -  Susana Draper, *1968 Mexico: Constellations of Freedom and Democracy* (Duke University Press, 2018).
@@ -112,13 +112,13 @@ Optional:
 * Eric Zolov, *The Last Good Neighbor: Mexico in the Global Sixties* (Duke University Press, 2020).
 
 
-## Week 7: March 5 -- Japan I 
+## Week 7: March 5 -- Japan I (Nolan) THEORY PAPER, too!!!
 
 Read:   
 - Christopher Gerteis,  *Mobilizing Japanese Youth: The Cold War and the Making of the Sixties Generation* (Cornell University Press, 2021)
 
 
-## Week 8: March 12 -- Japan II
+## Week 8: March 12 -- Japan II (Aimee)
 
 
 Read:   
@@ -129,12 +129,12 @@ Read:
 
 Enjoy your break. But not too much.
 
-## Week 10: March 26   -- Algeria
+## Week 10: March 26   -- Algeria (Jackson)
 
 Read:   
 -  Jeffrey James Byrne, *Mecca of Revolution: Algeria, Decolonization and the Third World Order* (Oxford University Press, 2019)
 
-## Week 11: April 2  -- France
+## Week 11: April 2  -- France (Jackson)
 
 Read:   
 -  Kristen Ross, *May '68 and its Afterlives* (Univ. of Chicago Press, 2004).
@@ -143,13 +143,13 @@ Optional:
 * Jean-Patrick Manchette, *Nada*, trans. by Donald Nicholson-Smith (NYRB, 2019)
 
 
-## Week 12: April 9 -- Germany
+## Week 12: April 9 -- Germany (Nolan)
 
 Read:   
 -  Quinn Slobodian, *Foreign Front: Third World Politics in Sixties West Germany* (Duke University Press, 2012).
 
 
-## Week 13: April 16 -- Style 
+## Week 13: April 16 -- Style (Aimee)
 
 
 Read:   
@@ -159,13 +159,13 @@ Read:
 
 - Tanisha Ford, *Liberated Threads: Black Women, Style, and the Global Politics of Soul* (University of North Carolina Press, 2017)
 
-## Week 14: April 23 -- Identity
+## Week 14: April 23 -- Identity (Mary Beth)
 
 
 Read:   
 -  Guy Hocquenghem, *Gay Liberation after May '68* (Duke University Press, 2022). 
 
-## Week 15: April 30 -- New Spirit I
+## Week 15: April 30 -- New Spirit I (Morgan)
 
 
 Read:   
